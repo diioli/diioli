@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diioli
+- 👋 Hi, I’m Diana Oliveira and I'm a newbie here :P
 - 👀 I’m interested in tech (obviously) and music
 - 🌱 I’m currently learning Full Stack Development at Gama Academy
 - 📫 How to reach me: diioli@icloud.com
