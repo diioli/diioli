@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Diana Oliveira and I'm a newbie here :P
-- 👀 I’m interested in tech (obviously) and music
-- 🌱 I’m currently learning Full Stack Development at Gama Academy
-- 📫 How to reach me: diioli@icloud.com
+<h2>I'm not a robot!<h2>
 
 <!---
 diioli/diioli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
